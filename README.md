@@ -46,7 +46,8 @@ UTS_Web1/
 │ └── script.js
 │
 ├── assets/
-│ └── img/
+|  ├── logo.png [disini saya kosongkan karena bersifat opsional]
+├── img/
 │ ├── kepemimpinan.jpg
 │ ├── manajemen_keuangan.jpg
 │ ├── mikrobiologi.jpg
@@ -97,7 +98,7 @@ UTS_Web1/
 ## 📹 Video YouTube
 
 Video pengerjaan dan penjelasan lengkap proyek UTS ini dapat dilihat di:  
-🎥 [Tambahkan URL YouTube Kamu di sini]  
+🎥 [https://youtu.be/b6c9rZKbtBQ?si=Jkoe1A8MHOKKLgPp]  
 
 > Catatan: Video ini berisi seluruh proses pengerjaan dan hasil akhir dari aplikasi web UTS Pemrograman Web 1.
 
